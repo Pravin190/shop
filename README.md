@@ -1,3 +1,7 @@
+=> "In this E-commerce project, I developed a responsive website using React.js, Tailwind, and a REST API. 
+
+=> Users can seamlessly browse, add, and remove products from their cart."
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
